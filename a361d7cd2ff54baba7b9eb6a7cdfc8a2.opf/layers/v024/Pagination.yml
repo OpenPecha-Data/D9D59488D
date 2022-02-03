@@ -21,14 +21,14 @@ annotations:
     reference: ''
     span:
       start: 2098
-      end: 3468
+      end: 3467
     note_ref: f69613d3d92c447b9004d3d9b0e3063b
   f69613d3d92c447b9004d3d9b0e3063b:
     imgnum: 175
     reference: ''
     span:
-      start: 3470
-      end: 4459
+      start: 3469
+      end: 4458
     note_ref: f69613d3d92c447b9004d3d9b0e3063b
   5ef99f33cc5843128cd66a16d779ce3a:
     imgnum: 177
